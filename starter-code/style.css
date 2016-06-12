@@ -54,3 +54,7 @@ footer {
   background-color: #808080;
   text-align: center;
 }
+img {
+	height: 200px;
+  width: 150px;
+}
